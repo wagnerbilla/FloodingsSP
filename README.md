@@ -10,6 +10,10 @@ The "dataset" folder contains the data structured in WEKA's ARFF file format. Th
 	
 	FloodingsSP_raindata_distance.arff - contains rainfall precipitation partial values, the distance attribute, and the labeled class;
 	
+	FloodingsSP_raindata_distance_1000m.arff - same as previous dataset, restricted to 1000m;
+	
+	FloodingsSP_raindata_distance_500m.arff - same as previous dataset, restricted to 500m;
+	
 	FloodingsSP_raindata_HAND.arff - contains rainfall precipitation partial values, the HAND index, and the labeled class.
 
 I hope you enjoy the contents and can easily reproduce the experiment. All generated files are intended not to have copyright constraints; use them freely.
